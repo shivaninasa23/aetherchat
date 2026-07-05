@@ -1,0 +1,11 @@
+{
+  "name": "AetherChat",
+  "description": "A luxury high-performance real-time communication platform with support for secure multi-user sync, custom wallpapers, star messages, voice notes, and multiple styling themes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
